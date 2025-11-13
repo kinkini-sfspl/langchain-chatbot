@@ -1,0 +1,24 @@
+# requirements.txt
+PyYAML==6.0.1
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+
+requests==2.32.3
+python-multipart==0.0.9
+pydantic-settings==2.6.1
+
+SQLAlchemy==2.0.34
+psycopg[binary]==3.2.3
+pgvector==0.2.5
+
+langchain==0.3.7
+langchain-core==0.3.18
+langchain-community==0.3.7
+langchain-google-genai==2.0.7
+
+# Fireworks pinned to an older compatible version
+langchain-fireworks==0.2.1
+fireworks-ai==0.15.2
+
+sentence-transformers==2.7.0
+pypdf==4.3.1

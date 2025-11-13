@@ -1,0 +1,537 @@
+1 | Page 
+ 
+Business Key Parameter 
+Loans Disbursed: 
+In microfinance, Loans Disbursed refers to the total Amount or number of loans that a 
+microfinance institution (MFI) has issued to borrowers during a specific period. It is a key 
+metric used to measure the outreach and operational performance of the institution. 
+Key Aspects of Loans Disbursed: 
+1. Definition: 
+a. Represents loans that have been approved, and processed, and the funds 
+released to borrowers. 
+b. Includes loans disbursed for various purposes like business, agriculture, 
+education, or personal needs. 
+2. Measurement: 
+a. Number of Loans Disbursed: Tracks the total count of loan accounts 
+disbursed. 
+b. Amount of Loans Disbursed: Reflects the total monetary amount issued to 
+borrowers. 
+3. Time Period: 
+a. Often reported quarterly, annually, or for a custom period to track 
+performance trends. ------------------------------------------------------------------------------------------------------------------ 
+Due : 
+This refers to a loan installment or payment that is scheduled to be paid by a certain date. 
+When the due date arrives, the borrower is expected to make the payment as per the 
+agreed terms. 
+Example: 
+Schedule of a borrower with 6 month EMI Loan: 
+Due Date Due Amount 
+05-Jan-2024 1000 
+05-Feb-2024 1000 
+05-Mar-2024 1000 
+05-Apr-2024 1000 
+05-May-2024 1000 
+2 | Page 
+ 
+05-Jun-2024 1000 
+ ------------------------------------------------------------------------------------------------------------------ 
+Past Due / Overdue / Arrears : 
+When a payment is not made by the due date, it becomes past due. This indicates that the 
+borrower has missed the scheduled payment deadline. 
+Overdue refers to any payment that has not been paid after the due date has passed. 
+Example: 
+Let’s say there are total 4 customers in a bank 
+Borrowers Due Amount Paid Amount Overdue 
+Lalita 1000 1000 0 
+Narmada 2000 1900 100 
+Chandana 1500 0 1500 
+Sitara 2000 2000 0 
+Total Overdue of the Bank = 0 + 100 + 1500 + 0 =2000 ------------------------------------------------------------------------------------------------------------------ 
+Days Past Due (DPD) : 
+DPD (Days Past Due) is a key metric in microfinance used to measure the number of days a 
+payment is overdue from its scheduled due date. 
+DPD=Current Date−Due Date 
+Example: 
+Let’s Assume Current Date = 30-Nov-2024 
+Borrowers Due Amont Due Date Paid 
+Amount 
+Overdue DPD 
+Asima 1000 05-Nov-2024 900 100 25 
+Samira 1500 10-Nov-2024 1500 0 0 
+Bijoya 1200 20-Nov-2024 1500 0 0 
+Rinki 2000 05-Dec-2024 0 0 0 
+Jhuma 1000 15-Nov-2024 0 1000 15 
+Sabira 1200 10-Oct-2024 100 1100 51 
+ 
+3 | Page 
+ 
+DPD Buckets: 
+DPD Bucket in microfinance refers to the classification of overdue loans based on the 
+number of Days Past Due (DPD). 
+DPD buckets typically follow these ranges, though the exact classification may vary by 
+institution: 
+0 DPD (Current): 
+Loans with no overdue payments. Borrowers are up to date with their repayments. 
+1–30 DPD: 
+Loans overdue by 1 to 30 days. These are in the early-stage delinquency bucket. 
+31–60 DPD: 
+Loans overdue by 31 to 60 days. These are considered medium-risk loans. 
+61–90 DPD: 
+Loans overdue by 61 to 90 days. These fall under high-risk delinquency. 
+90+ DPD (Non-Performing Loans): 
+Loans overdue by more than 90 days are typically classified as Non-Performing Assets 
+(NPAs) or bad debts. ------------------------------------------------------------------------------------------------------------------ 
+POS: 
+Principal Outstanding refers to the remaining unpaid portion of the principal loan amount 
+that a borrower owes to the lender (microfinance institution). It does not include interest, 
+fees, or penalties, but only the unpaid part of the principal loan amount. 
+Key Features of Principal Outstanding: 
+➢ Dynamic Value: As borrowers make repayments, the principal outstanding 
+decreases. 
+➢ Excludes Interest: It represents the actual borrowed amount yet to be repaid, 
+excluding interest accrued. 
+➢ Basis for Interest Calculation: Many microfinance institutions calculate interest 
+on the reducing balance of the principal outstanding. 
+ 
+4 | Page 
+ 
+Example-1: 
+Borrower Loan 
+Amount 
+Payment1 POS after 
+Payment
+1 
+Payment2 POS after 
+Payment
+2 
+Payment3 POS after 
+Payment
+3 
+Asima 30000 1000 29000 1000 28000 800 27200 
+Rima 50000 2000 48000 2000 46000 2000 44000 
+Bijaya 45000 1500 43500 0 43500 1000 42500 
+Sita 60000 2000 58000 2000 56000 2500 53500 
+Rama 40000 1000 39000 1000 38000 2000 36000 
+Sampa 30000 1000 29000 1000 28000 0 28000 
+ ------------------------------------------------------------------------------------------------------------------ 
+Portfolio At Risk (PAR): 
+Portfolio at Risk (PAR) is a key performance indicator in microfinance that measures the 
+Amount of an MFI's principal loan portfolio that is at risk of default. It reflects the total 
+outstanding principal balance of loans that are overdue (not paid on time) 
+Key Features of PAR: 
+1. Indicator of Risk: It shows the percentage of the loan portfolio that is not 
+performing as expected. 
+2. Time Sensitivity: PAR is calculated for different time periods, commonly PAR>30 
+(loans overdue by more than 30 days), PAR>60, or PAR>90. 
+3. Portfolio Quality: A higher PAR indicates a greater risk of non-repayment, signaling 
+poor portfolio quality. 
+ 
+Example: 
+Let’s Consider A bank have following members only 
+Current Date = 30-Nov-2024 
+Borrow
+ ers 
+Loan 
+Amt 
+Due 
+Date 
+Due 
+Amount 
+Paid 
+Amount 
+Overdue DPD POS PAR 
+Samira 30000 05-Nov
+24 
+1000 800 200 25 29200 29200 
+Asima 50000 10-Nov
+24 
+1500 1200 300 20 48800 48800 
+5 | Page 
+ 
+Borrow
+ ers 
+Loan 
+Amt 
+Due 
+Date 
+Due 
+Amount 
+Paid 
+Amount 
+Overdue DPD POS PAR 
+Salini 30000 03-Nov
+24 
+1200 0 1200 27 30000 30000 
+Jhuma 50000 20-Nov
+24 
+2000 3000 0 0 47000 0 
+Rima 20000 06-Dec
+24 
+1000 800 0 0 19200 0 
+Sampa 20000 10-Oct
+24 
+2000 1500 500 51 18500 18500 
+Hema 30000 15-Nov
+24 
+1500 1200 300 15 28800 28800 
+Total POS of the Bank =  29200 + 48800 + 30000  + 47000  + 19200 + 18500 + 28800 
+  = 2,21,500 
+Total PAR of the Bank =  29200  + 48800  + 30000  + 0 + 0  + 18500  + 28800 
+  = 1,55,310  
+Total OD = 200 + 300  + 1200  + 0  + 0  + 500  + 300 = 2,500 
+Total Defaulter = 5 
+Default Loan: Number of Loans having Overdue 
+PAR% = (1,55,310 / 2,21,500) *100 = 70.12% 
+PAR% = Total PAR Amount of a organization / Total POS Amount of a organization 
+ 
+PAR SMA Bucket: 
+In microfinance and banking, PAR SMA Buckets refer to the classification of overdue loans 
+into specific categories based on the number of days the payments are overdue. SMA 
+stands for Special Mention Account, which is used to identify accounts that show early 
+signs of stress and may require intervention to prevent default. 
+1. SMA-0 / PAR 1-30 (Early Warning): 
+a. Loans overdue by 1–30 days. 
+b. Indicates early signs of repayment stress. 
+c. Borrowers may need follow-up or counseling to ensure payments are made 
+on time. 
+6 | Page 
+ 
+2. SMA-1 / PAR 31-60 (Moderate Risk): 
+a. Loans overdue by 31–60 days. 
+b. Suggests borrowers are facing financial challenges that may lead to default. 
+c. Requires stronger recovery efforts, such as reminders, field visits, or 
+restructuring options. 
+3. SMA-2 (High Risk) / PAR 61-90: 
+a. Loans overdue by 61–90 days. 
+b. Represents a significant risk of the loan becoming a Non-Performing Asset 
+(NPA). 
+c. At this stage, most institutions intensify recovery actions to prevent a total 
+loss. 
+4. NPA / PAR 90+(Non-Performing Asset): 
+a. Loans overdue by 90+ days. 
+b. These loans are considered in default and typically require write-offs, legal 
+action, or other drastic measures. 
+Regular / PAR 0 / Current: 
+• Loans with no overdue payments. 
+• Represents loans where borrowers are paying on time. 
+• Ideally, the majority of the portfolio should be in this bucket. ------------------------------------------------------------------------------------------------------------------ 
+Active Borrower(AB): 
+In microfinance, an Active Borrower refers to a client who currently has at least one 
+outstanding loan with the microfinance institution (MFI). Active borrowers are a key metric 
+for understanding the operational scale and outreach of an MFI. 
+Key Characteristics of Active Borrowers: 
+1. Outstanding Loan: A borrower is considered active as long as they have not fully 
+repaid their loan or have a valid agreement with the MFI. 
+2. Excludes Fully Repaid Accounts: Borrowers who have fully settled their loans and 
+are not currently engaged in any financial relationship with the MFI are not included. 
+3. Includes Multiple Loans: If a borrower has more than one active loan, they are still 
+counted as a single active borrower. ------------------------------------------------------------------------------------------------------------------ 
+ 
+7 | Page 
+ 
+Active Loans: 
+In microfinance, Active Loans refer to the total number of loan accounts that are currently 
+active or outstanding. An active loan is any loan that has been disbursed and has not yet 
+been fully repaid, including loans in good standing, overdue loans, or those in default. 
+Key Characteristics of Active Loans: 
+1. Loan Account Focus: 
+a. Each loan account is counted separately, even if a single borrower has 
+multiple active loans. 
+2. Excludes Closed Loans: 
+a. Loans that have been fully repaid or written off are not included in the count 
+of active loans. 
+3. Status: 
+a. Active loans include accounts at various stages, such as: 
+i. Loans under regular repayment. 
+ii. Overdue loans. 
+iii. Loans in the process of restructuring or recovery. ------------------------------------------------------------------------------------------------------------------ 
+Difference Between Active Loans and Active Borrowers: 
+• Active Loans: Focuses on the number of loan accounts. A single borrower with 
+multiple loans contributes to multiple active loans. (Key identifier: LAN) 
+• Active Borrowers: Counts unique borrowers, regardless of how many loans they 
+hold. (Key identifier: CIF Id, Client ID, Borrower ID, CRN) 
+ 
+Example: 
+Client ID Loan Account Number POS 
+1001 743292541245 0 
+1001 753894612852 15,000 
+1001 757984621369 25,800 
+1002 759786412159 0 
+1003 715936418936 30,000 
+1004 753258963147 200 
+1004 789456321852 10,000 
+ 
+8 | Page 
+ 
+Active Loan = 5 
+Active Borrower = 3 ------------------------------------------------------------------------------------------------------------------ 
+Demand Amount: 
+The Demand amount is the total unpaid EMI amount (Current + OD) need to be paid in a 
+month or in a specific time period. 
+Regular Demand: unpaid EMI in a current Month or in a specific time period. 
+OD Demand: unpaid EMI of Previous Month or before specific time period  ------------------------------------------------------------------------------------------------------------------ 
+Collection Amount: 
+Collection Amount is the Total Amount Collected from borrowers regarding in a specific 
+time Period. 
+Regular Collection: Collection Regarding unpaid EMI in a current Month or in a specific 
+time period. 
+OD Collection: Collection Regarding unpaid EMI of Previous Month or before specific time 
+period. 
+Advance Collection: Advance Collection refers to payments made by borrowers ahead of 
+their scheduled repayment due dates. 
+Collection Rules: 
+➢ Interest deducted first then principle amount deducted 
+➢ If a person have more than 1 EMI due, then oldest EMI deducted first and so on. ------------------------------------------------------------------------------------------------------------------ 
+Repayment Rate: 
+In microfinance, the Repayment Rate is a key performance metric that measures the 
+proportion of loan repayments collected within a specified period compared to the total 
+amount due during that period exclude any advance payment.  
+In Simple word, RR the proportion of total collection excluding any advance payment 
+regarding Total demand within a specified time period including overdue demand. 
+9 | Page 
+ 
+ 
+Repayment Rate=((Total Amount Collected – Advance Collection if any) / 
+Total Amount Due)×100 
+Example: 
+Total Demand and Total Collection of a Bank given Below: 
+Total Demand Total Collection Repayment Rate 
+1000 800 80% 
+1500 1600 100% 
+2000 2000 100% 
+1000 0 0% 
+1200 1200 100% 
+1000 900 90% 
+ 
+Repayment Rate of the bank =( ( 800  + 1600  + 2000  + 0  + 1200 + 900) / (1000 + 1500 + 
+2000  + 1000  + 1200  + 1000)) * 100 
+= (6500 / 7700)*100  
+= 84.14% ------------------------------------------------------------------------------------------------------------------ 
+On-Time Repayment Rate (OTR): 
+On-Time Repayment (OTR) Rate is a key performance metric in microfinance that 
+measures the percentage of loan installments that are paid by borrowers on or before their 
+scheduled due date. 
+OTR Rate=(Number of On-Time Payments  / Total Scheduled Payments)×100 
+Where: 
+• Number of On-Time Payments: The count of payments made on or before their 
+due dates. 
+• Total Scheduled Payments: The total number of payments that were due within 
+the reporting period. 
+Example: 
+Let’s Calculate the OTR of the month Nov-2024. 
+10 | Page 
+ 
+➢ Total Scheduled Payments: 1,000 
+➢ On-Time Payments: 950 
+➢ Late Payments (before month-end): 5 (not included in on-time payments) 
+➢ Missed Payments (No payments regarding Demand): 45 
+ 
+OTR = (950 / 1000) * 100 = 95% 
+ 
+Difference Between RR and OTR: 
+Metric Focus Includes Late 
+Payments? 
+On-Time Repayment Rate 
+(OTR) 
+Measures punctuality of 
+repayments No 
+Repayment Rate Measures total repayments 
+collected Yes 
+ ------------------------------------------------------------------------------------------------------------------ 
+Operating Self-Sufficiency (OSS): 
+Operating Self Sufficiency (OSS) shows the sufficiency of income (operating income and 
+investment income) earned by MLIs(Micro Lending institutions) to cover the cost like 
+operating cost, loan loss provision and finance cost, incurred for conducting the 
+operations. 
+ 
+OSS = (Total Operating Income / Total Operating Expenses) * 100 
+Where: 
+• Total Operating Income: Includes revenue from loan interest, fees, and other 
+financial services offered by the MFI. 
+• Total Operating Expenses: Comprises all expenses, such as: 
+o Loan loss provisions (to cover bad debts). 
+o Financial costs (e.g., interest on borrowed funds). 
+11 | Page 
+ 
+o Administrative and personnel expenses. 
+Interpretation: 
+1. OSS ≥ 100%: 
+a. The MFI is operationally self-sufficient, meaning it can cover all expenses 
+with its income. 
+b. Indicates financial sustainability. 
+2. OSS < 100%: 
+a. The MFI is not covering its costs fully and may rely on subsidies, grants, or 
+external funding to sustain operations. 
+b. Indicates the need for efficiency improvements or income enhancement. 
+ 
+Example: 
+Month Total Operating 
+Income 
+Total Operating Expenses 
+ 
+OSS 
+Sep-2024 10000 9000 111% 
+Oct-2024 9000 9500 94.73% 
+Nov-2024 10000 10000 100% 
+ ------------------------------------------------------------------------------------------------------------------ 
+Loyalty Rate: 
+Loyalty Rate in microfinance is a metric that measures the proportion of borrowers who 
+remain with the microfinance institution (MFI) over time by taking repeat loans. 
+Loyalty Rate = (Number of Clients Who Took Repeat Loans after closing the loans in that 
+specific time frame /  Loan closures during the specific time period exclude Pre-closure) 
+*100 
+Example: 
+Active Loans at the End of the Year: 1,000 (not directly relevant to the loyalty rate 
+calculation). 
+Clients Whose Loans Closed During the Year: 100 
+Clients Who Took Repeat Loans: 20 
+Loyalty Rate =( 20 / 100 ) *100 =20% 
+12 | Page 
+ 
+ 
+** Cumulative Loyalty Rate = (Total Repeat customer from as on closed loans / As on date 
+total closed loans)*100 
+ ------------------------------------------------------------------------------------------------------------------ 
+Active Borrower Per Credit Officer (ABCO) / Case Load: 
+Active Borrower Per Credit Officer (ABCO), also known as Case Load, is a key metric in the 
+microfinance and lending industry that measures the workload of a credit officer by 
+assessing the number of active borrowers they are managing. 
+ABCO= (Total Number of Active Borrowers / Total Number of Credit Officers) 
+Example: 
+Month over Month Case Load: 
+Month Active Borrowers Credit Officers Case Load 
+Jan-2024 10000 50 200 
+Feb-2024 12000 50 240 
+Mar-2024 15000 55 273 
+ ------------------------------------------------------------------------------------------------------------------ 
+Average Loan Size (ALS) / Average Ticket Size (ATS): 
+Refers to the average amount of loans disbursed to borrowers by the MFI within a specific 
+period. 
+Average Loan Size (ALS) / Average Ticket Size (ATS)= Total Loan Amount Disbursed / 
+Number of Loans Disbursed 
+ Example: 
+Month over Month ATS: 
+Month Total Amount Disbursed No of Loan Disbursed ATS 
+Jan-2024 160000 4 40000 
+Feb-2024 1470000 42 35000 
+Mar-2024 1800000 60 30000 
+13 | Page 
+ ------------------------------------------------------------------------------------------------------------------ 
+Loan Write-off 
+Loan Write-off in microfinance refers to the process of officially removing a loan from the 
+books of a microfinance institution (MFI) when it is deemed uncollectible. This typically 
+occurs when a loan is considered as a bad debt or is unlikely to be repaid by the borrower. 
+A loan write-off does not mean the borrower is absolved of the debt, but rather that the MFI 
+recognizes the loan as a loss for accounting and reporting purposes. 
+Key Points of Loan Write-off in Microfinance: 
+1. Accounting Treatment: A loan write-off involves reducing the outstanding loan 
+balance on the MFI’s balance sheet. This helps the MFI reflect the actual value of its 
+loan portfolio, which is important for financial reporting, regulatory compliance, and 
+investor confidence. 
+2. Impact on Borrowers: The borrower remains legally responsible for repaying the 
+loan, even if it has been written off. In many cases, the borrower may continue to 
+repay the debt, or the MFI may attempt to recover the amount through legal 
+channels. 
+3. Write-off Criteria: The decision to write off a loan is usually made when: 
+a. The loan is severely overdue and it is unlikely that repayment will occur (e.g., 
+after a significant number of missed payments, typically 180 days or more). 
+b. The borrower has defaulted and no further collection efforts or negotiations 
+are likely to succeed. 
+c. The loan is deemed uncollectible after all recovery efforts, such as 
+restructuring or rescheduling, have been exhausted. 
+4. Not the Same as Forgiveness: A loan write-off is different from loan forgiveness. 
+Loan forgiveness means that the borrower is legally relieved of the obligation to 
+repay the loan. In contrast, a write-off only removes the loan from the institution’s 
+financial records but does not absolve the borrower of their debt. 
+5. Regulatory and Financial Reporting: Financial regulators often require MFIs to 
+maintain certain levels of provisions for loan losses based on their loan write-off 
+experience. These write-offs impact the MFI’s profitability and capital adequacy. ------------------------------------------------------------------------------------------------------------------ 
+ 
+14 | Page 
+ 
+Loan Settlement 
+• Definition: 
+Loan settlement occurs when the borrower negotiates with the lender to pay a 
+portion of the loan amount (less than the full amount owed) as a final resolution to 
+settle the debt. 
+• Key Features: 
+o The borrower and lender agree on a reduced repayment amount. 
+o Once the agreed amount is paid, the remaining debt is forgiven, and no 
+further repayment is required. 
+o Settlement is usually considered when the borrower is facing genuine 
+financial difficulties and is unable to repay the full amount. 
+• Impact on Credit Score: 
+o The settlement is reported to credit bureaus as a "settled" account and 
+negatively impacts the borrower’s credit score, though typically less severe 
+than a complete default. 
+• Reason for Settlement: 
+o Done Borrower's Genuine Financial Distress 
+▪ Borrowers, often from low-income groups, may face unexpected 
+hardships like health emergencies, natural disasters, job losses, or 
+crop failures. 
+o Avoiding Complete Loan Default 
+▪ By settling, the MFI recovers at least a portion of the loan rather than 
+writing it off as a total loss. 
+o Maintaining Client Relationships 
+▪ Settlement may help preserve goodwill with borrowers who might 
+return for future loans when their financial situation improves. 
+o Cost of Recovery Efforts 
+▪ Pursuing legal or collection efforts against low-income borrowers can 
+be expensive and counterproductive for MFIs. 
+o Regulatory or Policy Pressure 
+▪ Governments or regulators may encourage settlements for struggling 
+borrowers to prevent widespread financial distress in vulnerable 
+populations. 
+o Social Responsibility 
+▪ Many MFIs have a dual objective of financial sustainability and social 
+impact. Helping borrowers in distress aligns with their mission to 
+support economic stability in underprivileged communities. 
+o Mitigating Portfolio Risk 
+▪ High levels of non-performing loans (NPLs) can threaten an MFI's 
+financial health and ability to secure funding. 
+o External Factors 
+15 | Page 
+ 
+▪ Events like pandemics, economic downturns, or natural disasters 
+may lead to widespread inability to repay loans. 
+Key Differences 
+Aspect Loan Write-off Loan Settlement 
+Definition 
+Lender removes the loan from its 
+books as a loss but continues to seek 
+repayment. 
+Borrower and lender agree on a 
+reduced amount to settle the loan. 
+Obligation Borrower still owes the full loan 
+amount. 
+Borrower is no longer obligated 
+after paying the agreed settlement 
+amount. 
+Reason Accounting measure for bad debts. Negotiation due to borrower’s 
+inability to pay in full. 
+Impact on 
+Credit 
+Marked as "written-off," significantly 
+lowering credit score. 
+Marked as "settled," also lowering 
+credit score but slightly less 
+severe. 
+Lender’s 
+Recovery 
+May pursue repayment via legal or 
+collection actions. 
+No further action after settlement 
+payment. 
+Negotiation No negotiation; lender decides 
+unilaterally. 
+Involves negotiation between 
+lender and borrower. 
+ 
+Which is Better for the Borrower? 
+Loan Write-off: Provides no relief to the borrower and negatively affects credit. 
+Loan Settlement: Offers partial relief but also affects creditworthiness. Settlement is 
+preferable if you want to close the debt with a reduced amount. 
+Conclusion 
+A write-off is an internal accounting decision by the lender, while a settlement is an 
+agreement between the borrower and the lender to partially resolve the debt. Both impact 
+credit scores and borrowing capacity negatively. 
